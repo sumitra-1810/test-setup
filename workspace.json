@@ -1,6 +1,7 @@
 {
   "version": 2,
   "projects": {
+    "test-backend": "apps/test-backend",
     "test-frontend": "apps/test-frontend",
     "test-frontend-e2e": "apps/test-frontend-e2e"
   }
